@@ -61,9 +61,9 @@ def process(exp_path, imp_path, res_path):
         dict_result.clear()
 
 
-path_exp = 'D:\Turim\dados_2020\EXP_2020.csv'
-path_imp = 'D:\Turim\dados_2020\IMP_2020.csv'
-path_result = 'D:\Turim\dados_estados'
+path_exp = 'D:\dados_2020\EXP_2020.csv'
+path_imp = 'D:\dados_2020\IMP_2020.csv'
+path_result = 'D:\dados_estados'
 
 process(path_exp, path_imp, path_result)
 
